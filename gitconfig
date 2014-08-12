@@ -1,0 +1,18 @@
+[user]
+  name = Isa Vilacides
+  email = m.vilacides@gmail.com
+[color]
+  diff = auto
+  status = auto
+  branch = auto
+[core]
+  autocrlf = input
+[apply]
+  whitespace = fix
+[github]
+  user= vilacides
+[alias]
+  co = checkout
+  st = status --short -b
+[push]
+  default = current
